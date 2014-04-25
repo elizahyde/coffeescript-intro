@@ -1,5 +1,7 @@
 # CoffeeScript
 
+Repo to practice CoffeeScript
+
 ## Why CoffeeScript (15 min)
 
 * CoffeeScript is a programming language that has "nice" (Ruby like) syntax that compiles into JavaScript.
@@ -251,7 +253,7 @@ By the end of this lesson you should be able to:
 
 ## Exercise 3: (30 min)
 
-* Redo Haters Lab - rewrite the JS in CS. 
+* Redo Haters Lab - rewrite the JS in CS.
 * https://gist.github.com/DelmerGA/7a90af280d0a393f668d
 * If you don't want to use your previous lab, Rafi's Hater's Lab solution is in the repo: "index.html" and "lab.js".
 * Create a haters.coffee file that compiles into haters.js.
